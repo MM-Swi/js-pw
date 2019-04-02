@@ -1,4 +1,4 @@
-var argButtonName, buttonTest;
+var argButtonName;
 
 /**
  * Describe this function...
